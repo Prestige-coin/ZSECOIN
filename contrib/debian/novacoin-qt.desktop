@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ZSEcoin
+Comment=ZSEcoin P2P Cryptocurrency
+Comment[ru]=ZSEcoin, P2P криптовалюта
+Comment[fr]=ZSEcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ZSEcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/ZSEcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/ZSEcoin80.xpm
+MimeType=x-scheme-handler/ZSEcoin;
+Categories=Office;

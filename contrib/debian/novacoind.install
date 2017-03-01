@@ -1,0 +1,2 @@
+debian/bin/ZSEcoind usr/bin
+src/ZSEcoind usr/lib/ZSEcoin

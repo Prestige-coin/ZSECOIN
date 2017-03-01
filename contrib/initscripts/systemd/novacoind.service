@@ -1,0 +1,11 @@
+[Unit]
+Description=ZSEcoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=ZSEcoin
+ExecStart=/opt/ZSEcoin/ZSEcoind
+
+[Install]
+WantedBy=multi-user.target

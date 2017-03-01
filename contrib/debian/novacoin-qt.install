@@ -1,0 +1,5 @@
+ZSEcoin-qt usr/bin
+share/pixmaps/ZSEcoin32.xpm usr/share/pixmaps
+share/pixmaps/ZSEcoin80.xpm usr/share/pixmaps
+debian/ZSEcoin-qt.desktop usr/share/applications
+debian/ZSEcoin-qt.protocol usr/share/kde4/services/
